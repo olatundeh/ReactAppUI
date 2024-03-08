@@ -5,22 +5,23 @@ Features
 Welcome Screen: A simple introduction to the app.
 Login Page: Allows users to enter credentials and authenticate.
 Signup Page: Enables new user registration.
+
 Prerequisites
 Node.js and npm (or yarn) installed on your system. https://nodejs.org/en/learn/getting-started/how-to-install-nodejs
 A code editor or IDE of your choice (e.g., Visual Studio Code, WebStorm)
+
 Setup
 Clone this repository:
-
 Bash
-git clone <repository_url>
+git clone https://github.com/olatundeh/ReactAppUI.git
 Use code with caution.
-Navigate to the project directory:
 
+Navigate to the project directory:
 Bash
 cd ReactAPPUI
 Use code with caution.
-Install dependencies:
 
+Install dependencies:
 Bash
 npm install
 ``` (or `yarn install`)
@@ -28,20 +29,16 @@ npm install
 Use code with caution.
 Running the App
 Android
-
 Ensure you have an Android emulator or device connected.
 
 Run the app:
-
 Bash
 npm run android
 ``` (or `yarn android`)
 
 Use code with caution.
 iOS
-
 Ensure you have Xcode installed and configured for development.
-
 Run the app:
 
 Bash
