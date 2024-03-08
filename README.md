@@ -46,24 +46,7 @@ npm run ios
 ``` (or `yarn ios`)
 
 Use code with caution.
-Project Structure
-ReactAPPUI
-├── assets
-    ├──images
-      ├──login.jpg
-      ├──welcome.jpg
-      ├──facebook.png
-      ├──apple.png
-      ├──google.png
-├── navigation
-    ├──appNavigation.js
-├── App.js (Main app component)
-├── screens/ (App screens)
-│   ├── WelcomeScreen.js
-│   ├── LoginScreen.js
-│   └── SignupScreen.js
-├── package.json (Project dependencies)
-└── package.json
+
 Contributing
 We welcome contributions to this project. Feel free to fork the repository and submit pull requests.
 
